@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Raheel 👋
 
-<!--
-**raheel185/raheel185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a **very expert JavaScript Developer** with strong expertise in **Web Application Development** and **App Development in JavaScript**.  
 
-Here are some ideas to get you started:
+I specialize in building scalable, efficient, and user-friendly applications using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+- JavaScript (ES6+), React, Node.js, Express, Next, Angular, Vue, React Native
+- MongoDB, MySQL
+- PHP, Laravel, WordPress
+- Git, GitHub, Docker
