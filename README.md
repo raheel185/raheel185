@@ -1,6 +1,6 @@
 # Hi there, I'm Raheel 👋
 
-💻 I am a **very expert JavaScript Developer** with strong expertise in **Web Application Development** and **App Development in JavaScript**.  
+💻 I am a **Expert JavaScript Developer** with strong expertise in **Web Application Development** and **App Development in JavaScript**.  
 
 I specialize in building scalable, efficient, and user-friendly applications using modern JavaScript technologies.
 
